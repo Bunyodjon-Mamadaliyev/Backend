@@ -29,3 +29,6 @@ chmod +x start.sh
 
 # Run the project
 ./start.sh
+
+# loyihani clonlash
+git clone https://github.com/Bunyodjon-Mamadaliyev/Backend.git
